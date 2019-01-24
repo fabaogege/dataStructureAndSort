@@ -1,10 +1,9 @@
 /**
- * 二分查找
+ * 浜屽垎鏌ユ壘
  * @author lzp
  *
  */
  public class BinarySearch {
-	 //1.二分查找
 	public int binarySearch(int[] nums,int target) {
 		int left = 0;
 		int right = nums.length-1;
